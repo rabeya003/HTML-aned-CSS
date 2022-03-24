@@ -1,0 +1,64 @@
+
+body{
+    margin: 0;
+    padding: 0%;
+}
+.navabar>li{
+    list-style: none;
+    padding-inline: 20px;
+
+}
+.navabar{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+}
+.fullnavabar{
+    margin: 5%;
+}
+/* myinformation */
+main{
+   background-color: rgb(114, 95, 70);
+   padding-top: 10%;
+   padding-bottom: 2%;
+}
+.information{
+    padding-inline: 10%;
+    margin-top: 10%;
+    margin-top: 10%;
+}
+.title, .information{
+   text-align: center; 
+
+}
+/* card */
+.productimg{
+    width: 50%;
+    height: 300px;
+    margin-inline: 1%;
+}
+.content{
+    display: flex;
+    align-items: center;
+    margin-top:5% ;
+}
+/* footer */
+footer{
+    margin-top: 10%;
+    background-color: blueviolet;
+    padding-top:5% ;
+    padding-bottom: 5%;
+
+}
+
+.footerlist{
+    margin-top: 10%;
+    display: flex;
+    padding-inline: 5%;
+
+}
+.div1{
+    text-align: center;
+    padding-inline: 3%;
+}
